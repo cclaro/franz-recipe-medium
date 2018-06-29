@@ -1,0 +1,13 @@
+{
+  "id": "medium",
+  "name": "Medium",
+  "version": "1.0.0",
+  "description": "Medium",
+  "main": "index.js",
+  "author": "cclaro",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://medium.com/",
+    "hasTeamID": false
+  }
+}
